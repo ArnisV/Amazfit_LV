@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="locale_title">Izvēlies valodu</string>
-    <string name="app_name">TrainCenter</string>
+    <string name="app_name">Treniņu centrs</string>
     <string name="app_train_center">Treniņu centrs</string>
     <string name="my_train">Mans treniņš</string>
     <string name="please_select_train_plan">Izvēlies plānu</string>
