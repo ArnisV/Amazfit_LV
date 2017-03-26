@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Vid.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirm</string>
-    <string name="picker_default_nagetive_text">Off</string>
+    <string name="picker_default_positive_text">Apstiprināt</string>
+    <string name="picker_default_nagetive_text">Izsl.</string>
     <string name="no_heartrate_data_hint">Heart rate data not detected</string>
     <string name="no_altitude_hint">Altitude data not detected</string>
     <string name="ui_lib_name">Hm_UILib</string>
@@ -44,10 +44,10 @@
     <string name="wifi_upload">Upload</string>
     <string name="nothing">Empty</string>
     <string name="about_title">About</string>
-    <string name="model">Model</string>
-    <string name="dev_name">Name</string>
+    <string name="model">Modelis</string>
+    <string name="dev_name">Nosaukums</string>
     <string name="dev_desc">Amazfit Sports Watch</string>
-    <string name="ard_version">Android version</string>
+    <string name="ard_version">Android versija</string>
     <string name="rom_version">ROM Version</string>
     <string name="rom_hint_dev">ROM (Dev Edition)</string>
     <string name="flash_capacity">Total Storage</string>
@@ -122,24 +122,19 @@ and is nearby"</string>
     <string name="phone_not_connected">Phone not connected</string>
     <string name="phone_not_found">Phone not found</string>
     <string name="start_testing">Start</string>
-    <string name="lab_wifi_test_tip_retry">Please retry!!</string>
-    <string name="lab_wifi_test_tip_testing">Testing…</string>
-    <string name="lab_wifi_test_tip_pass">Pass!!</string>
-    <string name="lab_wifi_test_tip_fail">Fail!!</string>
-    <string name="lab_wifi_test_tip_open_wifi">Opening WIFI</string>
     <string name="light_off">Off</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Always On</string>
     <string name="rise_no_bl_under_slpt">Unlocked Only</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
-    <string name="locale_title">Language</string>
-    <string name="locale_applying">Language applying</string>
+    <string name="locale_title">Valoda</string>
+    <string name="locale_applying">Apstiprina valodu</string>
     <string name="zh_cn">Chinese (Simplified)</string>
     <string name="en">English(US)</string>
     <string name="zh_tw">Chinese (Traditional)</string>
-    <string name="confirm_change_locale">"Change language to 
+    <string name="confirm_change_locale">"Mainīt valodu uz 
 %1$s?"</string>
-    <string name="gender">Gender</string>
+    <string name="gender">Dzimums</string>
     <string name="birth_year">Birth Year</string>
     <string name="height">Height</string>
     <string name="weight">Weight</string>
@@ -168,7 +163,6 @@ kg"</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
     <string name="unknown">Unknown device</string>
-    <string name="bind_tips_title">Please bind n to protect your data more securely</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Left</string>
     <string name="right_hand">Right</string>
