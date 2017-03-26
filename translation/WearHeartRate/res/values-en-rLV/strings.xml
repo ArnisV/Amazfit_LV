@@ -71,8 +71,8 @@
     <string name="whole_day_light_sleep">Seklais miegs</string>
     <string name="whole_day_deep_sleep">Dziļais miegs</string>
     <string name="total_sleep">Kopējais miegs</string>
-    <string name="all_day_deep_sleep">Dienas dziļais miegs</string>
-    <string name="all_day_light_sleep">Dienas seklais miegs</string>
+    <string name="all_day_deep_sleep">Dziļais miegs</string>
+    <string name="all_day_light_sleep">Seklais miegs</string>
     <string name="awake_duration">Nomodā</string>
     <string name="sleep_unit_minute">m</string>
     <string name="sleep_uniti_hour">st</string>
@@ -80,7 +80,7 @@
     <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">h&lt;/font> %2$sм</string>
     <string name="date_m_d">%2$s.%1$s</string>
     <string name="date_today">Šodien</string>
-    <string name="sleep_detail_title">Statistika</string>
+    <string name="sleep_detail_title">Vēsture</string>
     <string name="all_day_hearte_rate_button_open">Izslēgt pulsa mērīšanu</string>
     <string name="all_day_hearte_rate_button_close">Apstēdināt pulsa mērīšabnu</string>
     <string name="heart_rate_no_data">Nav informācijas</string>
