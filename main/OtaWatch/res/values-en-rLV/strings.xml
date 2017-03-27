@@ -2,8 +2,8 @@
 <resources>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="app_name">otawatch</string>
-    <string name="action_settings">Settings</string>
-    <string name="watch_ota">Watch Update</string>
+    <string name="action_settings">Iestatījumi</string>
+    <string name="watch_ota">Pulksteņa atjauninājums</string>
     <string name="wifi_disconnect">"Please connect the
 Amazfit watch App to help 
 the watch check for update"</string>
@@ -18,7 +18,7 @@ Amazfit watch App to add
 new Wi-Fi hotspot for the watch"</string>
     <string name="input_passwor_on_mobile">"Please input Wi-Fi password 
 in the Amazfit watch App"</string>
-    <string name="add_wifi">Add Wi-Fi</string>
+    <string name="add_wifi">Pievieno Wi-Fi</string>
     <string name="please_update_rom">New system version found, please update</string>
     <string name="checking_rom">Checking for new versions</string>
     <string name="checking_rom_failed">"Network connection timed out,
@@ -45,29 +45,29 @@ retry later"</string>
  cancel?"</string>
     <string name="new_rom_please_install">"System update is available, 
 please upgrade"</string>
-    <string name="btn_install_later">Remind next time</string>
+    <string name="btn_install_later">Atgādini nākamreiz</string>
     <string name="btn_install_now">Install now</string>
     <string name="btn_upgrade_now">Update now</string>
     <string name="wifi_no_password">Unencrypted</string>
-    <string name="wifi_has_password">Encrypted</string>
-    <string name="wifi_password_error">Password incorrect</string>
-    <string name="wifi_connecting">Connecting...</string>
-    <string name="wifi_auth">Verifying password...</string>
-    <string name="wifi_get_ip">Obtaining IP address...</string>
-    <string name="wifi_link_fail">Connecting failed...</string>
-    <string name="wifi_connected">Connected</string>
-    <string name="wifi_title">Connect to Wi-Fi</string>
+    <string name="wifi_has_password">Šifrēts</string>
+    <string name="wifi_password_error">Parole nepareiza</string>
+    <string name="wifi_connecting">Savienojas...</string>
+    <string name="wifi_auth">Pārbauda paroli...</string>
+    <string name="wifi_get_ip">Iegūst IP adresi...</string>
+    <string name="wifi_link_fail">Savienojums neizdevāš...</string>
+    <string name="wifi_connected">Savienots</string>
+    <string name="wifi_title">Savienots ar Wi-Fi</string>
     <string name="wifi_wait_password">Waiting for password input...</string>
     <string name="toast_please_update_first">Please update first</string>
-    <string name="wifi_turnon_going">Turning on Wi-Fi...</string>
-    <string name="system_update_title">Update successful</string>
+    <string name="wifi_turnon_going">Ieslēdz Wi-Fi...</string>
+    <string name="system_update_title">Atjauninājums veiksmīgs</string>
     <string name="system_update_content">The system has been upgraded to version %1$s</string>
     <string name="password_error">"Incorrect Wi-Fi password,
 please re-enter"</string>
     <string name="wifi_connect_fail">"Cannot connect to this
 WiFi network. Please try 
 another Wi-Fi hotspot"</string>
-    <string name="searching">Searching...</string>
+    <string name="searching">Meklē...</string>
     <string name="hasNewUpdateTitle">System updates</string>
     <string name="hasNewUpdateInstallContent">The %1$s version can be installed, install now?</string>
     <string name="hasNewUpdateCheckContent">The %1$s version can be updated, update now?</string>
