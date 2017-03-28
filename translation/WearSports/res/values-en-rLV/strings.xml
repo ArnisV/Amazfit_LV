@@ -66,7 +66,7 @@
     <string name="sport_widget_title_outdoor_riding">Velosipēds</string>
     <string name="sport_widget_title_indoor_riding">Velotrenažieris</string>
     <string name="outdoor_riding_progressing">Velosipēds</string>
-    <string name="indoor_riding_progressing">CyclingVelotrenažieris/string>
+    <string name="indoor_riding_progressing">CyclingVelotrenažieris</string>
     <string name="outdoor_climb_distance">Ground speed distance</string>
     <string name="outdoor_climb_altitude">Pacēluma pieaugums</string>
     <string name="outdoor_max_cadence">Max ritms</string>
