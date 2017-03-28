@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Izvēlies valodu</string>
     <string name="crossing_title">Skriešana kalnos</string>
     <string name="crossing_end_sport">No sākuma pabeidziet skriešanu kalnos</string>
@@ -66,7 +65,7 @@
     <string name="sport_widget_title_outdoor_riding">Velosipēds</string>
     <string name="sport_widget_title_indoor_riding">Velotrenažieris</string>
     <string name="outdoor_riding_progressing">Velosipēds</string>
-    <string name="indoor_riding_progressing">CyclingVelotrenažieris</string>
+    <string name="indoor_riding_progressing">Velotrenažieris</string>
     <string name="outdoor_climb_distance">Ground speed distance</string>
     <string name="outdoor_climb_altitude">Pacēluma pieaugums</string>
     <string name="outdoor_max_cadence">Max ritms</string>
@@ -281,8 +280,6 @@
     <string name="walking_step_count">Soļi</string>
     <string name="walking_step">Solis</string>
     <string name="waling_steps">soļi</string>
-    <string name="date_am">AM</string>
-    <string name="date_pm">PM</string>
     <string name="complete_training_project">TTreniņa programa pabeigta</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Skriešana%1sKm</string>
@@ -326,4 +323,11 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Muzika sportam</string>
+    <string name="widget_currentstep_title">Esošie dati</string>
+    <string name="widget_currentstep_activities">Aktivitāte</string>
+    <string name="widget_currentstep_sleep_hour">H</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Miegs</string>
+    <string name="widget_currentstep_sleep_no">nav info par miegu</string>
+    <string name="widget_currentstep_activity_no">Bezdarbība</string>
 </resources>

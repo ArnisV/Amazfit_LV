@@ -41,7 +41,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Iestatījumi</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Izvēlies valodu</string>
     <string name="average_text">Vid.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
