@@ -17,11 +17,11 @@
     <string name="unknownName">Nezināms</string>
     <string name="untitled">&lt;Untitled></string>
     <string name="VideoView_error_button">Labi</string>
-    <string name="VideoView_error_text_unknown">"Can't play this video."</string>
-    <string name="VideoView_error_title">Video problem</string>
+    <string name="VideoView_error_text_unknown">Nevar atskaņot šo video.</string>
+    <string name="VideoView_error_title">Video problēma</string>
     <string name="yes">Labi</string>
-    <string name="dialog_alert_title">Attention</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">"This video isn't valid for streaming to this device."</string>
+    <string name="dialog_alert_title">Uzmanību!</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Šis video nav derīgs straumēšanai uz šo ierīci.</string>
     <string name="selectTextMode">Select text</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="byteShort">B</string>
@@ -1000,7 +1000,7 @@ Try again in %d seconds."</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="replace">Aizstāt</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Dzēst</string>
     <string name="textSelectionCABTitle">Teksta atlase</string>
     <string name="addToDictionary">Pievienot vārdnīcai</string>
     <string name="deleteText">Dzēst</string>
@@ -1132,8 +1132,8 @@ Do you want to close it?"</string>
     <string name="usb_storage_activity_title">USB lielapjoma atmiņa</string>
     <string name="usb_storage_title">USB ir pievienots.</string>
     <string name="usb_storage_message">Ir izveidots savienojums ar datoru, izmantojot USB. Pieskarieties tālāk esošajai pogai, ja vēlaties kopēt failus no datora Android USB atmiņā vai otrādi.</string>
-    <string name="usb_storage_button_mount">Turn on USB storage</string>
-    <string name="usb_storage_error_message">"There's a problem using your SD card for USB mass storage."</string>
+    <string name="usb_storage_button_mount">Ieslēgt USB krātuvi</string>
+    <string name="usb_storage_error_message">Izmantojot SD karti lielapjoma uzglabāšanai USB atmiņā, radās problēma.</string>
     <string name="usb_storage_notification_title">USB ir pievienots.</string>
     <string name="usb_storage_notification_message">Pieskarieties, lai kopētu failus datorā/no datora.</string>
     <string name="usb_storage_stop_notification_title">USB krātuves izslēgšana</string>
