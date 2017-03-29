@@ -4,9 +4,9 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Iestatījumi</string>
     <string name="watch_ota">Pulksteņa atjauninājums</string>
-    <string name="wifi_disconnect">"Please connect the
-Amazfit watch App to help 
-the watch check for update"</string>
+    <string name="wifi_disconnect">"Pievieno
+Amazfit watch App ,lai palīdzētu 
+pārbaudīt atjauninājumus"</string>
     <string name="connect_phone_wifi">"Please check the phone
 network to help the 
 watch check for update"</string>
@@ -20,13 +20,13 @@ new Wi-Fi hotspot for the watch"</string>
 in the Amazfit watch App"</string>
     <string name="add_wifi">Pievieno Wi-Fi</string>
     <string name="please_update_rom">New system version found, please update</string>
-    <string name="checking_rom">Checking for new versions</string>
+    <string name="checking_rom">Pārbaudit uz jaunumiem</string>
     <string name="checking_rom_failed">"Network connection timed out,
 please retry"</string>
-    <string name="current_is_new">Latest version running</string>
+    <string name="current_is_new">Jau pēdējā versija darbojas</string>
     <string name="has_new_rom">"New version found,
 update to %1$s version?"</string>
-    <string name="processbar_downloading_rom">Downloading...</string>
+    <string name="processbar_downloading_rom">Lejuplāde...</string>
     <string name="please_keep_wifi_connect">"Please keep the watch 
 connected to WiFi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -46,8 +46,8 @@ retry later"</string>
     <string name="new_rom_please_install">"System update is available, 
 please upgrade"</string>
     <string name="btn_install_later">Atgādini nākamreiz</string>
-    <string name="btn_install_now">Install now</string>
-    <string name="btn_upgrade_now">Update now</string>
+    <string name="btn_install_now">Instalēt tagad</string>
+    <string name="btn_upgrade_now">Atjaunot tagad</string>
     <string name="wifi_no_password">Unencrypted</string>
     <string name="wifi_has_password">Šifrēts</string>
     <string name="wifi_password_error">Parole nepareiza</string>
@@ -68,7 +68,7 @@ please re-enter"</string>
 WiFi network. Please try 
 another Wi-Fi hotspot"</string>
     <string name="searching">Meklē...</string>
-    <string name="hasNewUpdateTitle">System updates</string>
-    <string name="hasNewUpdateInstallContent">The %1$s version can be installed, install now?</string>
-    <string name="hasNewUpdateCheckContent">The %1$s version can be updated, update now?</string>
+    <string name="hasNewUpdateTitle">Sistēmas atjauninājumi</string>
+    <string name="hasNewUpdateInstallContent">Var %1$s uztādīt, sākt instalāciju?</string>
+    <string name="hasNewUpdateCheckContent">Var %1$s atjaunināt, sākt atjaunināt?</string>
 </resources>
