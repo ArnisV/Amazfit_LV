@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="spring_depend" />
     <string-array name="hour_select_labels">
         <item>0</item>
         <item>6</item>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Izvēlies valodu</string>
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
@@ -149,10 +148,5 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Muzika sportam</string>
-    <string name="label_heartrate">Sirds ritms</string>
-    <string name="high_strength_heart_rate">Liela slodze.</string>
-    <string name="aerobic_heart_rate">Aerobā slodze.</string>
-    <string name="burning_fat_heart_rate">Tauku sadedzināšana</string>
-    <string name="non_movement_heart_rate">Bezdarbība</string>
-    <string name="sleep_heart_rate">Miegā</string>
+    <string name="widget_currentstep_activities">Šodienas kustība</string>
 </resources>
