@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Vid.</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Apstiprināt</string>
+    <string name="picker_default_nagetive_text">Izsl.</string>
+    <string name="no_heartrate_data_hint">Pulss nav pieejams</string>
+    <string name="no_altitude_hint">Augstums nav pieejams</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Iestatījumi</string>
+    <string name="sport_music_settings">Mūzika sportam</string>
+    <string name="app_name">WeeklySports</string>
+    <string name="weeklysports_title">Sports</string>
+    <string name="weeklysports_totalnumber_front">Treniņu sk.</string>
+    <string name="weeklysports_totalstep_front">Nogāji</string>
+    <string name="weeklysports_totaltime">Kopējais laiks</string>
+    <string name="weeklysports_totaltime_unit">/</string>
+    <string name="weeklysports_totalcalories">Kopējās kalorijas</string>
+    <string name="weeklysports_totalcalories_unit">kKal</string>
+    <string name="weeklysports_totalmileage">Kopējais attālums</string>
+    <string name="weeklysports_totalmileage_unit_zh">km</string>
+    <string name="weeklysports_totalmileage_unit_en">mi</string>
+    <string name="weeklysports_averageheart">Vid. pulss</string>
+    <string name="weeklysports_averageheart_unit">sit/min</string>
+    <string name="weeklysports_runerrate">Skriešanas temps</string>
+    <string name="weeklysports_outdoorrunrate">Skriešanas vid. temps</string>
+    <string name="weeklysports_insiderunrate">Temps uz skriešanas celiņa</string>
+    <string name="weeklysports_crossrunrate">Vid. temps</string>
+    <string name="weeklysports_runerrate_unit_zh">/km</string>
+    <string name="weeklysports_runerrate_unit_en">/mi</string>
+    <string name="weeklysports_ridingrate">Velo temps</string>
+    <string name="weeklysports_outdoorriding_average">Velo vid. ātrums</string>
+    <string name="weeklysports_outdoorriding_max">Velo max ātrums</string>
+    <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
+    <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
+    <string name="weeklysports_activity">Kustība</string>
+    <string name="weeklysports_running">Skriešana</string>
+    <string name="weeklysports_walking">Pastaiga</string>
+    <string name="weeklysports_riding">Veloe</string>
+    <string name="weekly_step_attained_rate">Dienas līdz soļu mērķinm</string>
+    <string name="weekly_sports_notification_content">Dienasgrāmata treniņiem.</string>
+</resources>

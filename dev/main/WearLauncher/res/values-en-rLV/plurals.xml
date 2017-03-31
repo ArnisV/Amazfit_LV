@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_time_day">
+        <item quantity="other">Pirms %s dienām</item>
+        <item quantity="one">Pirms %s dienas</item>
+    <item quantity="few">Pirms %s dienām</item>
+    </plurals>
+    <plurals name="notification_time_hour">
+        <item quantity="other">Pirms %s stundām</item>
+        <item quantity="one">Pirms %s stundas</item>
+    <item quantity="few">Pirms %s stundām</item>
+    </plurals>
+    <plurals name="notification_time_minute">
+        <item quantity="other">Pirms %s minūtēm</item>
+        <item quantity="one">Pirms %s minūtes</item>
+    <item quantity="few">Pirms %s minūtēm</item>
+    </plurals>
+</resources>

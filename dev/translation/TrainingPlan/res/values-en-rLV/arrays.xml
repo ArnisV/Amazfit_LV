@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays">
+        <item>Pirmā nedēļa</item>
+        <item>Otrā nedēļa</item>
+        <item>Trešā nedēļa</item>
+        <item>Ceturtā nedēļa</item>
+        <item>Piektā nedēļa</item>
+        <item>Sestā nedēļa</item>
+        <item>Septītā nedēļa</item>
+        <item>Astotā nedēļa</item>
+    </string-array>
+    <string-array name="simple_weekdays">
+        <item>Svētdiena</item>
+        <item>Pirmdiena</item>
+        <item>Otrdiena</item>
+        <item>Trešdiena</item>
+        <item>Ceturtdiena</item>
+        <item>Piektdiena</item>
+        <item>Sestdiena</item>
+    </string-array>
+    <string-array name="train_finish_reason_strs">
+        <item>Nedarbojas, kā arī gaidīts</item>
+        <item>Grūti, kad tik ilgi</item>
+        <item>Švakais</item>
+        <item>Ļoti grūti</item>
+        <item>Pārāk viegli</item>
+        <item>Atcelt mērķi</item>
+        <item>Tas nav man</item>
+        <item>Cits</item>
+    </string-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
+    </string-array>
+</resources>

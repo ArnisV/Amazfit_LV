@@ -1,4 +1,5 @@
 # Amazfit_LV
 Amazfit Latvian 
-Folder repositories contains resources
-Folder Translation contains translated values to latvian
+Folder dev for file translating
+Folder Neuer_User final files for Neuer_User rom
+Folder Silver-Alx final files for Silver-alx rom
