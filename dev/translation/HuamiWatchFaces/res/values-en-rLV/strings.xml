@@ -15,6 +15,7 @@
     <string name="custom_title_bg">Fons</string>
     <string name="custom_title_graduation">Indikātori</string>
     <string name="custom_title_timehand">Roka</string>
+    <string name="custom_title_timedigital">Digitals</string>
     <string name="custom_title_date">Datums</string>
     <string name="custom_data_widget_title_default">Dati</string>
     <string name="custom_data_widget_title_nothing">Natspoguļot</string>
@@ -66,4 +67,11 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Muzika sportam</string>
+    <string name="widget_currentstep_title">Datu Centrs</string>
+    <string name="widget_currentstep_activities">Soļi</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Miegs</string>
+    <string name="widget_currentstep_sleep_no">Nav miega ainformācija</string>
+    <string name="widget_currentstep_activity_no">Šodien nekustējies?</string>
 </resources>
