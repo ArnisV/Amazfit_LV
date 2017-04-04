@@ -30,6 +30,7 @@ LetSākt！"</string>
     <string name="day_train_plan_record_marked">Atzīme</string>
     <string name="train_plan_recode_finished">Pabeigts</string>
     <string name="train_mileage">Treniņa attālums(km)</string>
+    <string name="train_mileage_mils">Treniņa gaita (км)</string>
     <string name="train_days">Treniņa dienas</string>
     <string name="train_finish">Padoties</string>
     <string name="train_finished">Pabeigts</string>
@@ -41,6 +42,10 @@ LetSākt！"</string>
     <string name="notificaiton_train_content">Šodienas treniņš nav pabeigts!</string>
     <string name="this_train_record_finish">Treniņa programa izpildīta</string>
     <string name="train_finish_reason">End Reason</string>
+    <string name="length_unit_km">km</string>
+    <string name="length_unit_miles">jūdzes</string>
+    <string name="unit_yinli">jūdze</string>
+    <string name="unit_gongli">km</string>
     <string name="average_text">Vid.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Apstiprināt</string>
@@ -50,4 +55,11 @@ LetSākt！"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Muzika sportam</string>
+    <string name="widget_currentstep_title">Dati</string>
+    <string name="widget_currentstep_activities">Aktivitāte</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">miegs</string>
+    <string name="widget_currentstep_sleep_no">Nav miega info</string>
+    <string name="widget_currentstep_activity_no">Bezdarbība</string>
 </resources>
