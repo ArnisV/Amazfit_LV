@@ -891,7 +891,7 @@ Try again in %d seconds."</string>
     <string name="keyguard_accessibility_password_unlock">Autorizācija ar paroli.</string>
     <string name="keyguard_accessibility_pattern_area">Kombinācijas ievades apgabals.</string>
     <string name="keyguard_accessibility_slide_area">Apgabals, kur vilkt ar pirkstu.</string>
-    <string name="password_keyboard_label_symbol_key">?123</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="granularity_label_character">rakstzīme</string>
