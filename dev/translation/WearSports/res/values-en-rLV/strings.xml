@@ -167,7 +167,7 @@
     <string name="no_gps_title">GPS nav pieejams</string>
     <string name="no_gps_content">Nevar precīzi saglabāt ceļu, mēģiniet iziet ārpus telpām.</string>
     <string name="no_gps_button_text">Apstiprināt</string>
-    <string name="settings_item_title_km_remind">Apļ paziņojums</string>
+    <string name="settings_item_title_km_remind">Apļa paziņojums</string>
     <string name="settings_item_title_km_voice_remind">Balss paziņojumi</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Airobā pulsa paziņojums</string>
     <string name="settings_item_title_safe_heartrate_remind">Pulsa paziņojums</string>
@@ -244,7 +244,7 @@
     <string name="sport_history_detail_heart_unit">Vienības (h:m:s)</string>
     <string name="widget_sport_item_running_title">Skriešana</string>
     <string name="wait_gps_no_gps_signal">GPS nav savienojies, mēģini atklātā vietā</string>
-    <string name="wait_gps_hint">GPS signāls irlabāks klajā vietā prom no celtnēm</string>
+    <string name="wait_gps_hint">GPS signāls ir labāks klajā vietā prom no celtnēm</string>
     <string name="wait_gps_success">GPS pieejams, vari sākt treniņu</string>
     <string name="wait_gps_search_retry">Atkārtot</string>
     <string name="sport_pause_heart_shown">--</string>

@@ -13,7 +13,7 @@
     <string name="quick_settings_auto_light_mode">Apgaismojums: %1$s</string>
     <string name="quick_settings_more_settings">Iestatījumi</string>
     <string name="quick_settings_switch_auto">Auto</string>
-    <string name="quick_settings_switch_awake">Roka</string>
+    <string name="quick_settings_switch_awake">Pamodināt</string>
     <string name="quick_settings_switch_always">Vienmēr</string>
     <string name="quick_settings_switch_on">Iesl.</string>
     <string name="quick_settings_switch_off">Izsl.</string>
@@ -28,7 +28,7 @@
     <string name="quick_settings_disconnect">Atvienots</string>
     <string name="quick_settings_date_chinese">dd.MM.yyyy</string>
     <string name="quick_settings_date_format">31.01.1900</string>
-    <string name="quick_settings_date_yeareve">New Year Eve</string>
+    <string name="quick_settings_date_yeareve">Jaunā gada vakars</string>
     <string name="seconed_confirm_nodisturb">"Netraucēt režīms
 Jauni paziņojumi netiks rādīti."</string>
     <string name="quick_settings_battery_charging_full">Pilnībā uzlādēts</string>
@@ -65,7 +65,7 @@ uzlādēts"</string>
     <string name="air_heavily_polluted">Stiprs piesārņojums</string>
     <string name="air_lightly_polluted">Neliels piesārņojums</string>
     <string name="air_moderate_polluted">Normāls piesārņojums</string>
-    <string name="air_severely_polluted">SNopietns piesārņojums</string>
+    <string name="air_severely_polluted">Nopietns piesārņojums</string>
     <string name="detailed">Laika ziņas sīkāk</string>
     <string name="fetch_failed">Nevar atjaunot Laika ziņas</string>
     <string name="fetch_failed_msg">Lūdzu, pārliecinieties, ka pulkstenis ir savienots ar Amazfit Watch lietotni un ir izvēlēta derīga atrašanās vieta.</string>

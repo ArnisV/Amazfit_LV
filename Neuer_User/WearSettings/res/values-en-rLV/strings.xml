@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Vid.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Apstiprināt</string>
     <string name="picker_default_nagetive_text">Izsl.</string>
-    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="no_heartrate_data_hint">Pulsa dati nav iegūti</string>
+    <string name="no_altitude_hint">Augstuma dati nav iegūti</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Muzika sportam</string>
+    <string name="widget_currentstep_title">Tagadējie dati</string>
+    <string name="widget_currentstep_activities">Aktivitāte</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Pēdējais miegs</string>
+    <string name="widget_currentstep_sleep_no">Nav dati par miegu</string>
+    <string name="widget_currentstep_activity_no">Bezdarbība</string>
     <string name="double_click_wakeup_open">Iesl.</string>
     <string name="double_click_wakeup_close">Izsl.</string>
     <string name="dlg_confirm">Labi</string>
@@ -42,6 +49,7 @@
     <string name="nodisturb">Klusums</string>
     <string name="auto_airplane">Auto Lidojuma rež.</string>
     <string name="wifi_upload">Augšuplādēt</string>
+    <string name="replace_watchface">Ciparnīcas</string>
     <string name="nothing">Tukšs</string>
     <string name="about_title">Par</string>
     <string name="model">Modelis</string>
@@ -122,6 +130,11 @@ un atrodas tuvumā"</string>
     <string name="phone_not_connected">Telefons nav pievienots</string>
     <string name="phone_not_found">Telefons nav atrasts</string>
     <string name="start_testing">Sākt</string>
+    <string name="lab_wifi_test_tip_retry">Mēģini vēlreiz!</string>
+    <string name="lab_wifi_test_tip_testing">Testēšana…</string>
+    <string name="lab_wifi_test_tip_pass">Izdevāš!!</string>
+    <string name="lab_wifi_test_tip_fail">Neizdevāš!!</string>
+    <string name="lab_wifi_test_tip_open_wifi">Atvērtie WIFI</string>
     <string name="light_off">Izsl.</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Vienmēr iesl.</string>
@@ -163,6 +176,7 @@ kg"</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Savākt daļu atkļūdošanas rīku</string>
     <string name="unknown">Nezināma ierīce</string>
+    <string name="bind_tips_title">Lūdzu sasaisti n drošākai datu aizsardzībai</string>
     <string name="upgrade_checking">Meklē atjauninājumu...</string>
     <string name="left_hand">Kreisā</string>
     <string name="right_hand">Labā</string>

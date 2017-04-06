@@ -143,8 +143,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Apstiprināt</string>
     <string name="picker_default_nagetive_text">Izsl.</string>
-    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="no_heartrate_data_hint">Pulsa dati nav iegūti</string>
+    <string name="no_altitude_hint">Augstuma dati nav iegūti</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Muzika sportam</string>
