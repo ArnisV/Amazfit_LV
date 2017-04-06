@@ -12,7 +12,7 @@
     <string name="day_train_record_stag_simple">- %1$d nedēļa - %2$d diena</string>
     <string name="day_train_record_train_stage">-%1$sDiena</string>
     <string name="remind_train_first_text">"Trenēšanās var uzlabot Tavu pašsajūtu.
-LetSākt！"</string>
+Sākam！"</string>
     <string name="train_start">Sākt</string>
     <string name="hidtory_train_start_date">Sākums %1$s</string>
     <string name="hidtory_train_end_date">Beigas %1$s</string>
@@ -30,7 +30,7 @@ LetSākt！"</string>
     <string name="day_train_plan_record_marked">Atzīme</string>
     <string name="train_plan_recode_finished">Pabeigts</string>
     <string name="train_mileage">Treniņa attālums(km)</string>
-    <string name="train_mileage_mils">Treniņa gaita (км)</string>
+    <string name="train_mileage_mils">Treniņa gaita (km)</string>
     <string name="train_days">Treniņa dienas</string>
     <string name="train_finish">Padoties</string>
     <string name="train_finished">Pabeigts</string>
@@ -41,7 +41,7 @@ LetSākt！"</string>
     <string name="notification_title">Treniņu centrs</string>
     <string name="notificaiton_train_content">Šodienas treniņš nav pabeigts!</string>
     <string name="this_train_record_finish">Treniņa programa izpildīta</string>
-    <string name="train_finish_reason">End Reason</string>
+    <string name="train_finish_reason">Beigšanas iemesls</string>
     <string name="length_unit_km">km</string>
     <string name="length_unit_miles">jūdzes</string>
     <string name="unit_yinli">jūdze</string>
