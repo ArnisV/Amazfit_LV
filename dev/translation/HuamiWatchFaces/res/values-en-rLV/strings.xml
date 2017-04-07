@@ -15,10 +15,10 @@
     <string name="custom_title_bg">Fons</string>
     <string name="custom_title_graduation">Indikātori</string>
     <string name="custom_title_timehand">Roka</string>
-    <string name="custom_title_timedigital">Digitals</string>
+    <string name="custom_title_timedigital">Cipari</string>
     <string name="custom_title_date">Datums</string>
     <string name="custom_data_widget_title_default">Dati</string>
-    <string name="custom_data_widget_title_nothing">Natspoguļot</string>
+    <string name="custom_data_widget_title_nothing">Netspoguļot</string>
     <string name="custom_data_widget_title_step">Soļi</string>
     <string name="custom_data_widget_title_today_dis">Attālums</string>
     <string name="custom_data_widget_title_total_dis">Kopā</string>
@@ -31,10 +31,10 @@
     <string name="custom_data_widget_title_date">Datums</string>
     <string name="cube_month">-</string>
     <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/watchface_slpt_number_km.png</string>
-    <string name="digital_sport_eight_distance_mi_unit_path">guard/shiguanglicheng/watchface_slpt_number_km.png</string>
-    <string name="digital_sport_eight_week_path">guard/shiguanglicheng/watchface_slpt_number_week_%d.png</string>
-    <string name="digital_sport_one_week_path">guard/malasong/week_%d.png</string>
-    <string name="digital_sport_twelve_week_path">guard/huanyingMC/week_%d.png</string>
+    <string name="digital_sport_eight_distance_mi_unit_path">guard/shiguanglicheng/en/watchface_slpt_number_km.png</string>
+    <string name="digital_sport_eight_week_path">guard/shiguanglicheng/lv/watchface_slpt_number_week_%d.png</string>
+    <string name="digital_sport_one_week_path">guard/malasong/lv/week_%d.png</string>
+    <string name="digital_sport_twelve_week_path">guard/huanyingMC/lv/week_%d.png</string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Dzīves skrējiens</string>
     <string name="watch_label_sport_two">Es esmu skrējējs</string>
