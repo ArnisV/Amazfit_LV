@@ -29,6 +29,7 @@
     <string name="custom_data_widget_title_battery">Uzlāde</string>
     <string name="custom_data_widget_title_msg">Paziņojumi</string>
     <string name="custom_data_widget_title_date">Datums</string>
+    <string name="custom_data_widget_date_2">datawidget/date_2/lv/week_%d.png</string>
     <string name="cube_month">-</string>
     <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/watchface_slpt_number_km.png</string>
     <string name="digital_sport_eight_distance_mi_unit_path">guard/shiguanglicheng/en/watchface_slpt_number_km.png</string>
