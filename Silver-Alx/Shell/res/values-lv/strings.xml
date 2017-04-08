@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_label">Shell</string>
-    <string name="bugreport_finished_title">Kļūdas atskaite pierakstīta</string>
-    <string name="bugreport_finished_text">Piespied, lai kopīgotu kļūdas atskaiti</string>
-    <string name="bugreport_confirm">"Kļūdu ziņojumi satur datus no dažādiem sistēmas žurnālu failiem, ieskaitot personisko un privāto informāciju. Tikai kopīgo kļūdu ziņojumus ar lietotnēm un cilvēkiem, kam uzticies."</string>
-    <string name="bugreport_confirm_repeat">Šo paziņojumu rādīt arī nākamoreizi</string>
-</resources>

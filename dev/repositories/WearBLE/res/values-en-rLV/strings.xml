@@ -4,11 +4,11 @@
     <string name="action_settings">Settings</string>
     <string name="heart_rate">HR_COUNTER</string>
     <string name="hello_world">Heart Rate Simulator .</string>
-    <string name="install_companion_tip">请先在手机上安装华米手表助手</string>
+    <string name="install_companion_tip">No sākuma instalē tekefona Amazfit lietotni</string>
     <string name="simplified_chinese">中文(简体)</string>
     <string name="english_usa">English(US)</string>
-    <string name="low_battery">电量不足5%，请连接电源以继续。</string>
-    <string name="battery_low_title">电量低!</string>
+    <string name="low_battery">Mazāk nekā 5% jauda, pievieno lādētājam, lai turpinātu.</string>
+    <string name="battery_low_title">Zema uzlāde!</string>
     <string name="battery_low_plz_charge">电量不足，请请连接电源充电。</string>
     <string name="scan_to_bind">扫码绑定</string>
     <string name="function_unavailable_tip">会有部分功能不可用，跳过吗？</string>

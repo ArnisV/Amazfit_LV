@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="lang">
-        <item>English(US)</item>
-        <item>Русский</item>
-        <item>中文(简体)</item>
-    </string-array>
-</resources>
