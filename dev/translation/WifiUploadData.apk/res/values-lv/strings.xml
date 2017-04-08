@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Iesl.</string>
+    <string name="picker_default_nagetive_text">Izsl</string>
+    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Iestatījumi</string>
+    <string name="sport_music_settings">Muzika sportam</string>
+    <string name="widget_currentstep_title">Tadgadējie rādijumi</string>
+    <string name="widget_currentstep_activities">Aktivitāte</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Pēdējais miegs</string>
+    <string name="widget_currentstep_sleep_no">av dati par iegu</string>
+    <string name="widget_currentstep_activity_no">Bezdarbība</string>
+    <string name="app_name">WifiUploadData</string>
+    <string name="notice_text_success_top">Dati veiksmīgi auģšuplādēti</string>
+    <string name="notice_text_failed_top">Augšulāde neizdevās</string>
+    <string name="notice_text_success_bottom">Lūdzu, apskatiet Mi Fit</string>
+    <string name="date">Dati:</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Lūdzu, turiet pulksteni
+ savienotu ar WiFi"</string>
+    <string name="init_wifi">Wi-Fi savienojums</string>
+    <string name="cannot_acess_server">Serveris nav sasniedzams</string>
+    <string name="init_user">Pārbaudi lietotāju</string>
+    <string name="cannot_upload_user">Nevar atjaunot datus</string>
+    <string name="please_upload_assist_version">Atjaunojiet pielikuma versiju</string>
+    <string name="init_app">Saistītāš lietotnes</string>
+    <string name="init_update_user">Atjaunot lietotāju</string>
+    <string name="see_after_connect_app_token_faield">kļūda pilnvaras pieelikumā.</string>
+    <string name="upload_failed_full">Šoreiz augšuplāde neizdevās , pārtraukt?</string>
+    <string name="zero">0</string>
+    <string name="net_failed">Pārbaudi savienojumu un mēģini vēlreiz</string>
+    <string name="did_not_connect_assist">Pieslēdz lietotni. Pēc savienojuma tā var atjaunināt autentifikācijas informāciju, jūs varat piekļūt serverim.</string>
+</resources>
