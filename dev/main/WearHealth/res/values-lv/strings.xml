@@ -145,7 +145,7 @@ pamostirs"</string>
     <string name="label_quiet_normal">Normāls Pulss</string>
     <string name="label_quiet_normal_any">Heart rate under resting state: 60-100 bpm. Moderate exercise, and a healthy lifestyle and mind state facilitate a normal heart rate</string>
     <string name="label_quiet_slow">Zem normāla</string>
-    <string name="label_quiet_slow_any">Iesakam pulsu turēt robežāš: 60-100 sit/min. Pietiekoši pareizi vingrinājumi, Labi pieradumi un noskaņojums, palīdzēs sirds ritmu turēt normā..</string>
+    <string name="label_quiet_slow_any">Iesakam pulsu turēt robežās: 60-100 sit/min. Pietiekoši pareizi vingrinājumi, Labi pieradumi un noskaņojums, palīdzēs sirds ritmu turēt normā..</string>
     <string name="label_step_unit">Soļi</string>
     <string name="label_subject_active">Aktīvs</string>
     <string name="label_subject_ratio_today">Aktivitātes līmenis</string>

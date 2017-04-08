@@ -4,7 +4,7 @@
     <string name="music_download" formatted="false">%1d/%2d</string>
     <string name="music_download_in_progress">Dziesma lejuplādējas...</string>
     <string name="music_no_wifi_title">Nevar lejuplādēt</string>
-    <string name="music_download_fail_title">Dziesmas lejulāde neizdevāš</string>
+    <string name="music_download_fail_title">Dziesmas lejuplāde neizdevās</string>
     <string name="music_download_not_complete_title">Dziesma nav pilnībā lejuplādēta</string>
     <string name="music_no_wifi_content">Wi-Fi is not connected, songs cannot be downloaded. Please connect to Wi-Fi by System settings - Wi-Fi on the watch.</string>
     <string name="music_download_fail_content">Network connection error. Songs unable to be downloaded. Please connect to the network and try again.</string>

@@ -54,7 +54,7 @@ please upgrade"</string>
     <string name="wifi_connecting">Savienojas...</string>
     <string name="wifi_auth">Pārbauda paroli...</string>
     <string name="wifi_get_ip">Iegūst IP adresi...</string>
-    <string name="wifi_link_fail">Savienojums neizdevāš...</string>
+    <string name="wifi_link_fail">Savienojums neizdevās...</string>
     <string name="wifi_connected">Savienots</string>
     <string name="wifi_title">Savienots ar Wi-Fi</string>
     <string name="wifi_wait_password">Waiting for password input...</string>

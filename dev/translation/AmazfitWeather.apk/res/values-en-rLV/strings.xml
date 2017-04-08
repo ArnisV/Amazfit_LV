@@ -46,7 +46,7 @@
     <string name="air_moderate_polluted">Piesārņots</string>
     <string name="air_heavily_polluted">Stipri piesārņots</string>
     <string name="air_severely_polluted">Nopietni piesārņots</string>
-    <string name="no_outdoor_info">Neizdevāš iegūt kustības indeksu</string>
+    <string name="no_outdoor_info">Neizdevās iegūt kustības indeksu</string>
     <string name="outdoor_info_notsuit">Nav paredzēts sportošanaiārpus telpām</string>
     <string name="outdoor_info_suit">Labs sportošanai</string>
     <string name="wind_strength">Vējšs</string>

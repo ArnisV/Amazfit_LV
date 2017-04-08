@@ -21,7 +21,7 @@
     <string name="label_mood_bad">Ne visai</string>
     <string name="label_choose_when">Miers vai treniņš?</string>
     <string name="label_when_quiet">Miers</string>
-    <string name="label_when_active">treniņš</string>
+    <string name="label_when_active">Treniņš</string>
     <string name="label_choose_condition">Kā pašsajūta?</string>
     <string name="label_condition_well">Atslābis</string>
     <string name="label_condition_tired">Noguris</string>
@@ -34,12 +34,12 @@
     <string name="label_active_slow">Tauku sadedzināšana</string>
     <string name="label_active_xslow">Bez slodzes</string>
     <string name="label_quiet_normal_any">Puls miera režīmā: 60-100 sit/min. Fiziskās aktivitātes un veselīgs dzīvesveids plus labs noskaņojums palīdzēs kontrolēt pulsu.</string>
-    <string name="label_quiet_fast_well_medium">Iesakam pulsu turēt robežāš: 60-100 sit/min. Pietiekoši pareizi vingrinājumi, Labi pieradumi un noskaņojums, palīdzēs sirds ritmu turēt normā.</string>
+    <string name="label_quiet_fast_well_medium">Iesakam pulsu turēt robežās: 60-100 sit/min. Pietiekoši pareizi vingrinājumi, Labi pieradumi un noskaņojums, palīdzēs sirds ritmu turēt normā.</string>
     <string name="label_quiet_fast_well_good">Noskaņojuma maiņa, uzbudinājums un emocijas var izsaukt paaugstinātu pulsu. Nestresojiet, mierā un harmonijā.</string>
     <string name="label_quiet_fast_well_bad">Sliktāš emocijas, kā uztraukums, bailes var paaugstināt pulsu. Nestresojiet, mierā un harmonijā.</string>
     <string name="label_quiet_fast_sick_any">Slimība, augsta temperatūra, anēmija, infekcijas var izsaukt paaugstinātu pulsu.Sekojiet un uzturiet veselību katru dienu.</string>
     <string name="label_quiet_fast_tired_any">Nogurums var būt paaugstināta pulsa iemesls. Neaizmirsti par mieru un atpūtu.</string>
-    <string name="label_quiet_slow_any">Iesakam pulsu turēt robežāš: 60-100 sit/min. Pietiekoši pareizi vingrinājumi, Labi pieradumi un noskaņojums, palīdzēs sirds ritmu turēt normā..</string>
+    <string name="label_quiet_slow_any">Iesakam pulsu turēt robežās: 60-100 sit/min. Pietiekoši pareizi vingrinājumi, Labi pieradumi un noskaņojums, palīdzēs sirds ritmu turēt normā..</string>
     <string name="label_active_xslow_well_medium">Labākiem rezultātiem palielini slodzi un treniņa ilgumu, līdz puls nesasniedz 50-85% no tava maksimuma</string>
     <string name="label_active_xslow_well_good">Kad cilvēks ir laimīgs, nervi un muskuļ ir lielisko kordinēti, kas rada lbu treniņa efektu.</string>
     <string name="label_active_xslow_well_bad">Regulāras fiziskās aktivitātes noņems sliktās emocijas un stresu.</string>
