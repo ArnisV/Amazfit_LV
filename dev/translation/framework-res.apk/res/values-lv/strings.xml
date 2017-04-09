@@ -1053,10 +1053,10 @@ Do you want to close it?"</string>
     <string name="android_upgrading_title">Notiek Android jaunināšana...</string>
     <string name="android_start_title">Notiek Android palaišana…</string>
     <string name="android_upgrading_fstrim">Notiek krātuves optimizēšana.</string>
-    <string name="android_upgrading_apk">" Optimizing App %1$d Total %2$d"</string>
+    <string name="android_upgrading_apk">" Optimizē  %1$d lietotni no %2$d"</string>
     <string name="android_upgrading_starting_apps">Notiek lietotņu palaišana.</string>
     <string name="android_upgrading_complete">Tiek pabeigta sāknēšana.</string>
-    <string name="heavy_weight_notification">%1$s daarbojas</string>
+    <string name="heavy_weight_notification">%1$s darbojas</string>
     <string name="heavy_weight_notification_detail">Pieskarieties, lai pārslēgtos uz lietotni</string>
     <string name="heavy_weight_switcher_title">Vai pārslēgt lietotnes?</string>
     <string name="heavy_weight_switcher_text">Jau darbojas cita lietotne. Tās darbība ir jāaptur, lai varētu startēt jaunu lietotni.</string>
