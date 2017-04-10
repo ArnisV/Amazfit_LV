@@ -74,8 +74,8 @@
     <string name="outdoor_graph_unit">Attālums(km)</string>
     <string name="outdoor_speed_graph_title">Ātrums(km/h)</string>
     <string name="not_testing_speed_data">Ātrums nav pieejams</string>
-    <string name="con_leqi_table_title">Watch has support LEQI riding table, is Connected now?</string>
-    <string name="con_leqi_table_subtitle">(Bind in System settings-Bluetooth device)</string>
+    <string name="con_leqi_table_title">Pulkstenis uztur velo datoru LEQI, savienoties?</string>
+    <string name="con_leqi_table_subtitle">(Savienot sistēmas iestatījumi-Bluetooth ierīce)</string>
     <string name="unit_cadence">r/min</string>
     <string name="remind_target_riding_km_title_format">Pabeigti %1$d km</string>
     <string name="indoor_riding_time_too_short">Vingrinājums laiks ir pārāk īss, lai saglabātu. Vai tiešām apturēt?</string>
@@ -87,7 +87,7 @@
     <string name="sport_widget_title_run">Skriešana</string>
     <string name="sport_widget_title_walk">Iešana</string>
     <string name="sport_widget_title_cross">Skriešana kalnos</string>
-    <string name="sport_widget_title_indoor_run">Skriesana iekštelpās</string>
+    <string name="sport_widget_title_indoor_run">Skriešana iekštelpās</string>
     <string name="sport_widget_title_record">Statistika</string>
     <string name="sport_widget_title_achieve">Apbalvojumi</string>
     <string name="sport_widget_title_setting">Iestatījumi</string>
@@ -95,7 +95,7 @@
     <string name="app_name">Sports</string>
     <string name="sport_item_running_title">Skriešana</string>
     <string name="sport_item_walking_title">Iešana</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">GalvenāAktivitāte</string>
     <string name="title_sport_list">Aktivitātes pie dabas</string>
     <string name="title_sport_gps_available">GPS pieejams</string>
     <string name="title_sport_gps_unavailable">Gaida uz GPS</string>
