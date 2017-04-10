@@ -31,7 +31,7 @@
     <string name="init_user">Pārbaudi lietotāju</string>
     <string name="cannot_upload_user">Nevar atjaunot datus</string>
     <string name="please_upload_assist_version">Atjaunojiet pielikuma versiju</string>
-    <string name="init_app">Saistītāš lietotnes</string>
+    <string name="init_app">Saistītās lietotnes</string>
     <string name="init_update_user">Atjaunot lietotāju</string>
     <string name="see_after_connect_app_token_faield">kļūda pilnvaras pieelikumā.</string>
     <string name="upload_failed_full">Šoreiz augšuplāde neizdevās , pārtraukt?</string>

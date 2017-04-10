@@ -132,7 +132,7 @@ un atrodas tuvumā"</string>
     <string name="start_testing">Sākt</string>
     <string name="lab_wifi_test_tip_retry">Mēģini vēlreiz!</string>
     <string name="lab_wifi_test_tip_testing">Testēšana…</string>
-    <string name="lab_wifi_test_tip_pass">Izdevāš!!</string>
+    <string name="lab_wifi_test_tip_pass">Izdevās!!</string>
     <string name="lab_wifi_test_tip_fail">Neizdevās!!</string>
     <string name="lab_wifi_test_tip_open_wifi">Atvērtie WIFI</string>
     <string name="light_off">Izsl.</string>

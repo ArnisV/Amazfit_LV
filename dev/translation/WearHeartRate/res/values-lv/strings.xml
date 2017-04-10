@@ -36,7 +36,7 @@
     <string name="label_quiet_normal_any">Puls miera režīmā: 60-100 sit/min. Fiziskās aktivitātes un veselīgs dzīvesveids plus labs noskaņojums palīdzēs kontrolēt pulsu.</string>
     <string name="label_quiet_fast_well_medium">Iesakam pulsu turēt robežās: 60-100 sit/min. Pietiekoši pareizi vingrinājumi, Labi pieradumi un noskaņojums, palīdzēs sirds ritmu turēt normā.</string>
     <string name="label_quiet_fast_well_good">Noskaņojuma maiņa, uzbudinājums un emocijas var izsaukt paaugstinātu pulsu. Nestresojiet, mierā un harmonijā.</string>
-    <string name="label_quiet_fast_well_bad">Sliktāš emocijas, kā uztraukums, bailes var paaugstināt pulsu. Nestresojiet, mierā un harmonijā.</string>
+    <string name="label_quiet_fast_well_bad">Sliktas emocijas, kā uztraukums, bailes var paaugstināt pulsu. Nestresojiet, mierā un harmonijā.</string>
     <string name="label_quiet_fast_sick_any">Slimība, augsta temperatūra, anēmija, infekcijas var izsaukt paaugstinātu pulsu.Sekojiet un uzturiet veselību katru dienu.</string>
     <string name="label_quiet_fast_tired_any">Nogurums var būt paaugstināta pulsa iemesls. Neaizmirsti par mieru un atpūtu.</string>
     <string name="label_quiet_slow_any">Iesakam pulsu turēt robežās: 60-100 sit/min. Pietiekoši pareizi vingrinājumi, Labi pieradumi un noskaņojums, palīdzēs sirds ritmu turēt normā..</string>
