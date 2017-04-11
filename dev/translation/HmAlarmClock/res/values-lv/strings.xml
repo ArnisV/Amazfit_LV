@@ -26,14 +26,14 @@
     <string name="work_days">Darba dienās</string>
     <string name="hour_unit">Stunda</string>
     <string name="minute_unit">Minūte</string>
-    <string name="snooze_button">Snaust</string>
-    <string name="dimiss_button">Izsl.</string>
+    <string name="snooze_button">Atlikt</string>
+    <string name="dimiss_button">Izslēgt</string>
     <string name="stop_watch_left_button_positive">Aplis</string>
     <string name="stop_watch_left_button_negative">Nomest</string>
     <string name="stop_watch_right_button_positive">Sākt</string>
     <string name="stop_watch_start_button">Sākt</string>
     <string name="stop_watch_right_button_negative">Stop</string>
-    <string name="stop_watch_lap_text">%d aplis(i)</string>
+    <string name="stop_watch_lap_text">%d aplis(ļi)</string>
     <string name="stop_watch_default_lap">Hronometrs</string>
     <string name="stop_watch_default_lap_time">00:00.00</string>
     <string name="stop_watch_lap_list_title_text">%d aplis(i)</string>

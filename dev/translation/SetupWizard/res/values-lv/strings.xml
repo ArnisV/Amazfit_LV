@@ -8,10 +8,10 @@
     <string name="tip_low_battery">Uzlāde zemāka par 5% , Pievieno lādētāju, lai turpinātu.</string>
     <string name="pair_scan_qr">Noskanē QR kodu ar \"Amazfit Watch\" Lietotni</string>
     <string name="pair_skip">Izlaist</string>
-    <string name="tip_pair_skip">Dažas funkcijasnedarbosies, Turpināt?</string>
+    <string name="tip_pair_skip">Dažas funkcijas nedarbosies, turpināt?</string>
     <string name="tip_restoring">Atjauno</string>
     <string name="tip_binding_failed">Pārošana neizdevās</string>
-    <string name="tip_binding_failed_restart">Atvienots, Mēģini vēlreiz</string>
+    <string name="tip_binding_failed_restart">Atvienots, mēģini vēlreiz</string>
     <string name="tip_no_bluetooth_adapter">Bluetooth Kļūda</string>
     <string name="tip_wear_hand">Uz kuras rokas nēsāsi?</string>
 </resources>

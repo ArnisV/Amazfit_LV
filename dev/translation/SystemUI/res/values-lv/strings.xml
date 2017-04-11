@@ -121,10 +121,10 @@
     <string name="accessibility_tty_enabled">"Teletaips ir iespējots."</string>
     <string name="accessibility_two_bars">"Divas joslas"</string>
     <string name="accessibility_unlock_button">"Atbloķēt"</string>
-    <string name="accessibility_wifi_name">Connected to %s.</string>
-    <string name="accessibility_wifi_off">Wifi off.</string>
+    <string name="accessibility_wifi_name">Pievienoties %s.</string>
+    <string name="accessibility_wifi_off">Wifi izsl.</string>
     <string name="accessibility_wifi_one_bar">Wifi viena josla</string>
-    <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
+    <string name="accessibility_wifi_signal_full">Wifi pilns signšls.</string>
     <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
     <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
     <string name="accessibility_wimax_one_bar">"WiMAX viena josla."</string>
@@ -137,7 +137,7 @@
     <string name="app_label">"Sistēmas UI"</string>
     <string name="app_name">Keyguard</string>
     <string name="battery_low_percent_format">%s atlicis</string>
-    <string name="battery_low_percent_format_saver_started">%s remaining. Battery saver is on.</string>
+    <string name="battery_low_percent_format_saver_started">Atlikuši %s. Taupības režīms iesl..</string>
     <string name="battery_low_title">"Zems akumulatora enerģijas līmenis"</string>
     <string name="battery_low_why">"Iestatījumi"</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -168,11 +168,11 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="description_direction_left">Slide left for %s.</string>
     <string name="description_direction_right">Slide right for %s.</string>
     <string name="description_direction_up">Slide up for %s.</string>
-    <string name="description_target_camera">Camera</string>
-    <string name="description_target_search">Search</string>
-    <string name="description_target_silent">Silent</string>
-    <string name="description_target_soundon">Sound on</string>
-    <string name="description_target_unlock">Unlock</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_search">Meklēšana</string>
+    <string name="description_target_silent">Klusums</string>
+    <string name="description_target_soundon">Skaņa iesl.</string>
+    <string name="description_target_unlock">Atblķēt</string>
     <string name="dessert_case">"Saldo ēdienu stends"</string>
     <string name="device_owned_footer">"Ierīci var pārraudzīt"</string>
     <string name="disable_vpn">"Atspējot VPN"</string>
@@ -182,7 +182,7 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="ethernet_label">"Tīkls Ethernet"</string>
     <string name="expanded_header_battery_charged">"Akumulators uzlādēts"</string>
     <string name="expanded_header_battery_charging">"Notiek uzlāde"</string>
-    <string name="expanded_header_battery_charging_with_time">%s until full</string>
+    <string name="expanded_header_battery_charging_with_time">%s līdz pilnai uzlādei</string>
     <string name="expanded_header_battery_not_charging">"Nenotiek uzlāde"</string>
     <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
     <string name="gps_notification_found_text">"GPS iestatītā atrašanās vieta"</string>
@@ -253,7 +253,7 @@ Use only the supplied charger."</string>
     <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
     <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
     <string name="keyguard_carrier_default">No service.</string>
-    <string name="keyguard_charged">Charged</string>
+    <string name="keyguard_charged">Uzlādēts</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
     <string name="keyguard_indication_trust_disabled">"Ierīce būs bloķēta, līdz to manuāli atbloķēsiet."</string>
     <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
@@ -424,10 +424,10 @@ Also, you gave \"%2$s\" permission to set up a VPN connection. This app can moni
     <string name="phone_hint">"Lai lietotu tālruni, velciet no ikonas"</string>
     <string name="phone_label">"atvērt tālruni"</string>
     <string name="profile_owned_footer">"Profilu var pārraudzīt"</string>
-    <string name="quick_settings_airplane_mode_label">Airplane mode</string>
+    <string name="quick_settings_airplane_mode_label">Lidojuma režīms</string>
     <string name="quick_settings_bluetooth_detail_empty_text">"Nav pieejama neviena pārī savienota ierīce."</string>
     <string name="quick_settings_bluetooth_label">"Bluetooth"</string>
-    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d ierīces)</string>
     <string name="quick_settings_bluetooth_off_label">"Bluetooth savienojums ir izslēgts."</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">"AUTOMĀTISKI"</string>
     <string name="quick_settings_brightness_dialog_title">"Spilgtums"</string>
@@ -482,7 +482,7 @@ Also, you gave \"%2$s\" permission to set up a VPN connection. This app can moni
     <string name="quick_settings_wifi_off_label">"Wi-Fi ir izslēgts"</string>
     <string name="recents_app_info_button_label">"Informācija par lietojumprogrammu"</string>
     <string name="recents_empty_message">"Nav nesenu vienumu"</string>
-    <string name="recents_launch_error_message">"Nevarēja palaist lietotni <xliff:g id="APP">%s</xliff:g>."</string>
+    <string name="recents_launch_error_message">"Nevarēja palaist lietotni%s."</string>
     <string name="recents_lock_to_app_button_label">"Piespraust ekrānu"</string>
     <string name="recents_search_bar_label">"Meklēt"</string>
     <string name="screen_pinning_description">"Šādi tas būs redzams līdz brīdim, kad to atspraudīsiet. Lai atspraustu, pieskarieties pogām Atpakaļ un Pārskats un turiet tās."</string>
@@ -546,8 +546,8 @@ Also, you gave \"%2$s\" permission to set up a VPN connection. This app can moni
     <string name="vpn_footer">Network may be monitored</string>
     <string name="widget_default_class_name"/>
     <string name="widget_default_package_name"/>
-    <string name="zen_alarm_information_day_time">Your next alarm is %s</string>
-    <string name="zen_alarm_information_time">Your next alarm is at %s</string>
+    <string name="zen_alarm_information_day_time">Nākamais modinātājs %s</string>
+    <string name="zen_alarm_information_time">YNākamais modinātājs %s</string>
     <string name="zen_alarm_warning">"You won't hear your alarm at %s"</string>
     <string name="zen_important_interruptions">Priority interruptions only</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
