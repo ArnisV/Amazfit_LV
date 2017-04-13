@@ -221,10 +221,14 @@ pamostirs"</string>
     <string name="stretch_dialog_content">Tulīt sāc staipīšanāštreniņu!</string>
     <string name="stretch_dialog_cancel">Atcelt</string>
     <string name="stretch_dialog_start">Atvērt video</string>
+    <string name="stretch_dialog_button">Staipīšanaās</string>
     <string name="stretch_connection_failed_title">Neizdevās pievienoties telefonam</string>
     <string name="stretch_connection_failed_content">Pārbaudi bluetooth savienojumu telefonam un mēģini no jauna atvērt lietotni.</string>
+    <string name="stretch_connection_failed_button">Atkārtot</string>
     <string name="open_xiaomi_app_failed_title">Neizdevās palaist MiFit</string>
     <string name="open_xiaom_app_failed_content">Uzstādiet MiFit un mēģiniet vēlreiz</string>
+    <string name="stretch_notification_subtitle">Pārāk ilgi nekustīgs</string>
+    <string name="stretch_notification_content">Mērena aktivitāte var novērst speidzi mugurai</string>
     <string name="widget_label_step">Šodien</string>
     <string name="widget_heart_analysis">Analīze</string>
     <string name="widget_step_target_txt">Mērķis: %d</string>
@@ -245,6 +249,7 @@ pamostirs"</string>
     <string name="widget_heart_gauged_err">Kļūda mērot</string>
     <string name="widget_heart_gauged_err_tips">Nēsā pulksteni virs locītavas.</string>
     <string name="widget_weeklysports_heartrate_unit">sit/min</string>
+    <string name="widget_sleep_conment">Šonedēļ labi gulēji, tā turpināt!</string>
     <string name="average_text">Vid.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Apstiprināt</string>

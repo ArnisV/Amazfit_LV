@@ -96,7 +96,7 @@ Savienot?"</string>
     <string name="blt_hint_connect_fail">Savienojums neizdevās, provē vēlreiz</string>
     <string name="blt_type_ear">Austiņas</string>
     <string name="blt_speaker">Audio</string>
-    <string name="blt_car_system">Vehicle-mounted</string>
+    <string name="blt_car_system">Automašīnas</string>
     <string name="blt_type_mabiao">MW</string>
     <string name="blt_not_support">[Only test]</string>
     <string name="bluetooth_pair_tips">Pārošanas kods</string>

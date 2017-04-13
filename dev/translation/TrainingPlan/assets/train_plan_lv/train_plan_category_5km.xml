@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <daytrainplans>
         <daytrainplan id="0">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -12,9 +12,9 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="1">
-            <desc>Простой бег 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>4.8</distance>
+            <desc>Skriešana 3.2km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>1</offsetTotal>
@@ -23,9 +23,9 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="2">
-            <desc>Фартлек 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>4.8</distance>
+            <desc>Fartleks 3.2km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>2</offsetTotal>
@@ -34,30 +34,32 @@
             <rateEnd>80</rateEnd>
         </daytrainplan>
         <daytrainplan id="3">
-            <desc>Простой бег 3.2km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>3.2</distance>
-            <offsetWeeks>0</offsetWeeks>
-            <offsetDays>0</offsetDays>
-            <offsetTotal>3</offsetTotal>
-            <runremindId>2</runremindId>
-            <rateStart>60</rateStart>
-            <rateEnd>70</rateEnd>
-        </daytrainplan>
-        <daytrainplan id="4">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
-            <offsetTotal>4</offsetTotal>
+            <offsetTotal>3</offsetTotal>
             <runremindId>9</runremindId>
             <rateStart>1</rateStart>
             <rateEnd>0</rateEnd>
         </daytrainplan>
+        <daytrainplan id="4">
+            <desc>Peldēšana 20-30minūtes</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>0.0</distance>
+            <offsetWeeks>0</offsetWeeks>
+            <offsetDays>0</offsetDays>
+            <offsetTotal>4</offsetTotal>
+            <runremindId>10</runremindId>
+            <rateStart>0</rateStart>
+            <rateEnd>0</rateEnd>
+            <trainTimeMin>20</trainTimeMin>
+            <trainTimeMax>30</trainTimeMax>
+        </daytrainplan>
         <daytrainplan id="5">
-            <desc>Продвинутый бег 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Progression Run 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -67,19 +69,19 @@
             <rateEnd>80</rateEnd>
         </daytrainplan>
         <daytrainplan id="6">
-            <desc>Восттановительный бег 3.2km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>3.2</distance>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>6</offsetTotal>
-            <runremindId>1</runremindId>
-            <rateStart>50</rateStart>
-            <rateEnd>60</rateEnd>
+            <runremindId>9</runremindId>
+            <rateStart>2</rateStart>
+            <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="7">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -89,43 +91,43 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="8">
-            <desc>Простой бег 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Skriešana 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>8</offsetTotal>
-            <runremindId>2</runremindId>
+            <runremindId>1</runremindId>
             <rateStart>60</rateStart>
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="9">
-            <desc>Фартлек 6.5km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>6.5</distance>
+            <desc>Progression Run 3.2km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>9</offsetTotal>
-            <runremindId>4</runremindId>
-            <rateStart>70</rateStart>
+            <runremindId>3</runremindId>
+            <rateStart>60</rateStart>
             <rateEnd>80</rateEnd>
         </daytrainplan>
         <daytrainplan id="10">
-            <desc>20-30 мин плавания</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Velosipēds 20-30 minūtes</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>10</offsetTotal>
-            <runremindId>10</runremindId>
-            <rateStart>0</rateStart>
-            <rateEnd>0</rateEnd>
+            <runremindId>11</runremindId>
+            <rateStart>50</rateStart>
+            <rateEnd>60</rateEnd>
             <trainTimeMin>20</trainTimeMin>
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="11">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -135,20 +137,20 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="12">
-            <desc>Продвинутый бег 8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>8.0</distance>
+            <desc>Skriešana 3.2km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>12</offsetTotal>
-            <runremindId>3</runremindId>
+            <runremindId>2</runremindId>
             <rateStart>60</rateStart>
-            <rateEnd>80</rateEnd>
+            <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="13">
-            <desc>Восттановительный бег 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>4.8</distance>
+            <desc>Atjaunošanās skriešana 3.2km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>13</offsetTotal>
@@ -157,8 +159,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="14">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -168,9 +170,9 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="15">
-            <desc>Простой бег 6.5km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>6.5</distance>
+            <desc>Skriešana 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>15</offsetTotal>
@@ -179,30 +181,32 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="16">
-            <desc>Бег с уклоном 6.5km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>6.5</distance>
+            <desc>Ritmiskā skriešana 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>16</offsetTotal>
-            <runremindId>5</runremindId>
+            <runremindId>6</runremindId>
             <rateStart>85</rateStart>
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="17">
-            <desc>Простой бег 3.2km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>3.2</distance>
+            <desc>Peldēšana 20-30 minūtes</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>17</offsetTotal>
-            <runremindId>2</runremindId>
-            <rateStart>60</rateStart>
-            <rateEnd>70</rateEnd>
+            <runremindId>10</runremindId>
+            <rateStart>50</rateStart>
+            <rateEnd>60</rateEnd>
+            <trainTimeMin>20</trainTimeMin>
+            <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="18">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -212,20 +216,20 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="19">
-            <desc>Ритмичный бег 6.5km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>6.5</distance>
+            <desc>Skriešana 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>19</offsetTotal>
-            <runremindId>6</runremindId>
-            <rateStart>85</rateStart>
-            <rateEnd>95</rateEnd>
+            <runremindId>2</runremindId>
+            <rateStart>60</rateStart>
+            <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="20">
-            <desc>Восттановительный бег 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>4.8</distance>
+            <desc>Atjaunošanās skriešana 3.2km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>20</offsetTotal>
@@ -234,8 +238,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="21">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -245,20 +249,20 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="22">
-            <desc>Простой бег 8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>8.0</distance>
+            <desc>Skriešana 6.5km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>22</offsetTotal>
-            <runremindId>2</runremindId>
+            <runremindId>1</runremindId>
             <rateStart>60</rateStart>
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="23">
-            <desc>Бег с уклоном 6.5km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>6.5</distance>
+            <desc>Skriešana kalnā 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>23</offsetTotal>
@@ -267,8 +271,8 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="24">
-            <desc>20-30 мин на велосипеде</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Velosipēds 20-30 minūtes</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -280,8 +284,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="25">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -291,20 +295,20 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="26">
-            <desc>Ритмичный бег 8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>8.0</distance>
+            <desc>Skriešana 6.5km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>26</offsetTotal>
-            <runremindId>6</runremindId>
-            <rateStart>85</rateStart>
-            <rateEnd>96</rateEnd>
+            <runremindId>2</runremindId>
+            <rateStart>60</rateStart>
+            <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="27">
-            <desc>Восттановительный бег 6.5km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>6.5</distance>
+            <desc>Atjaunošanās skriešana 3.2km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>27</offsetTotal>
@@ -313,8 +317,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="28">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -324,20 +328,20 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="29">
-            <desc>Простой бег 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>4.8</distance>
+            <desc>Skriešana 6.5km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>29</offsetTotal>
-            <runremindId>2</runremindId>
+            <runremindId>1</runremindId>
             <rateStart>60</rateStart>
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="30">
-            <desc>Бег с уклоном 6.5km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>6.5</distance>
+            <desc>Skriešana kalnā 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>30</offsetTotal>
@@ -346,19 +350,21 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="31">
-            <desc>Простой бег 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>4.8</distance>
+            <desc>Peldēšana 20-30 minūtes</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>31</offsetTotal>
-            <runremindId>2</runremindId>
-            <rateStart>60</rateStart>
-            <rateEnd>70</rateEnd>
+            <runremindId>10</runremindId>
+            <rateStart>0</rateStart>
+            <rateEnd>0</rateEnd>
+            <trainTimeMin>20</trainTimeMin>
+            <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="32">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -368,19 +374,19 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="33">
-            <desc>Интервальный бег 12.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>12.8</distance>
+            <desc>Skriešana 6.5km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>33</offsetTotal>
-            <runremindId>8</runremindId>
-            <rateStart>85</rateStart>
-            <rateEnd>95</rateEnd>
+            <runremindId>2</runremindId>
+            <rateStart>60</rateStart>
+            <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="34">
-            <desc>Восттановительный бег 4.8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atjaunošanās skriešana 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -390,8 +396,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="35">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -401,30 +407,30 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="36">
-            <desc>Простой бег 8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Skriešana 8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>36</offsetTotal>
-            <runremindId>2</runremindId>
+            <runremindId>1</runremindId>
             <rateStart>60</rateStart>
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="37">
-            <desc>Ритмичный бег 8km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>8.0</distance>
+            <desc>Intervālu skriesana 6.4km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>6.4</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>37</offsetTotal>
-            <runremindId>6</runremindId>
+            <runremindId>7</runremindId>
             <rateStart>85</rateStart>
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="38">
-            <desc>20-30 мин плавания</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Peldēšana 20-30 minūtes</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -436,8 +442,8 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="39">
-            <desc>День отдыха</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -447,20 +453,20 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="40">
-            <desc>Интервальный бег 9.6km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>9.6</distance>
+            <desc>Skriešana 8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>40</offsetTotal>
-            <runremindId>8</runremindId>
-            <rateStart>85</rateStart>
-            <rateEnd>95</rateEnd>
+            <runremindId>2</runremindId>
+            <rateStart>60</rateStart>
+            <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="41">
-            <desc>Восттановительный бег 6.5km</desc>
-            <stageDesc>Базовые упражнения</stageDesc>
-            <distance>6.5</distance>
+            <desc>Atjaunošanās skriešana 4.8km</desc>
+            <stageDesc>Bāzes uzdevumi</stageDesc>
+            <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>41</offsetTotal>
@@ -469,8 +475,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="42">
-            <desc>День отдыха</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -480,20 +486,20 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="43">
-            <desc>День отдыха</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
-            <distance>0.0</distance>
+            <desc>Skriešana 6.5km</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
+            <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>43</offsetTotal>
-            <runremindId>9</runremindId>
-            <rateStart>1</rateStart>
-            <rateEnd>0</rateEnd>
+            <runremindId>1</runremindId>
+            <rateStart>60</rateStart>
+            <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="44">
-            <desc>Интервальный бег 8km</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
-            <distance>8.0</distance>
+            <desc>Intervālaskriešana 4.8km</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
+            <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>44</offsetTotal>
@@ -502,19 +508,21 @@
             <rateEnd>95</rateEnd>
         </daytrainplan>
         <daytrainplan id="45">
-            <desc>Простой бег 3.2km</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
-            <distance>3.2</distance>
+            <desc>Peldēšana 20-30 minūtes</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
+            <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>45</offsetTotal>
-            <runremindId>2</runremindId>
-            <rateStart>60</rateStart>
-            <rateEnd>70</rateEnd>
+            <runremindId>10</runremindId>
+            <rateStart>0</rateStart>
+            <rateEnd>0</rateEnd>
+            <trainTimeMin>20</trainTimeMin>
+            <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="46">
-            <desc>День отдыха</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -524,20 +532,20 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="47">
-            <desc>Ритмичный бег 9.1km</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
-            <distance>9.1</distance>
+            <desc>Skriešana 6.5km</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
+            <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>47</offsetTotal>
-            <runremindId>6</runremindId>
-            <rateStart>85</rateStart>
-            <rateEnd>95</rateEnd>
+            <runremindId>2</runremindId>
+            <rateStart>60</rateStart>
+            <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="48">
-            <desc>Восттановительный бег 4.8km</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
-            <distance>4.8</distance>
+            <desc>Atjaunošanās skriešana 3.2km</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
+            <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>48</offsetTotal>
@@ -546,8 +554,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="49">
-            <desc>День отдыха</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -557,19 +565,19 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="50">
-            <desc>Простой бег 6.5km</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
-            <distance>6.5</distance>
+            <desc>Skriešana 4.8km</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
+            <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>50</offsetTotal>
-            <runremindId>2</runremindId>
+            <runremindId>1</runremindId>
             <rateStart>60</rateStart>
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="51">
-            <desc>День отдыха</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -579,8 +587,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="52">
-            <desc>Восттановительный бег 3.2km</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
+            <desc>Atjaunošanās skriešana 3.2km</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -590,8 +598,8 @@
             <rateEnd>60</rateEnd>
         </daytrainplan>
         <daytrainplan id="53">
-            <desc>День отдыха</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -601,9 +609,9 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="54">
-            <desc>Завершение тренировки на 10km</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
-            <distance>10.0</distance>
+            <desc>Pabeigts 5km</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
+            <distance>5.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
             <offsetTotal>54</offsetTotal>
@@ -612,8 +620,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="55">
-            <desc>День отдыха</desc>
-            <stageDesc>Уменьшение нагрузки</stageDesc>
+            <desc>Atpūtas diena</desc>
+            <stageDesc>Slodzes samazināšana</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -623,5 +631,3 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
 </daytrainplans>
-
-

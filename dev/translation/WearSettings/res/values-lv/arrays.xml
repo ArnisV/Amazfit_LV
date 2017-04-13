@@ -27,7 +27,7 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Bezdarbībastaimeris</item>
+        <item>[prim]Bezdarbības taimeris</item>
         <item>[sum]Atgādinājuma laiks (minūšu skaits)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>

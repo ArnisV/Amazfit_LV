@@ -3,11 +3,11 @@
     <string name="app_name">SilverSet</string>
     <string name="app_title_1">Silver Iestatījumi</string>
     <string name="app_title_2">"Pēc konfigurēšanas neaizmirsti restartēt"</string>
-    <string name="bt_switch">BT Max Volume</string>
+    <string name="bt_switch">BT Max Skaļums</string>
     <string name="button_reboot">Restartēt</string>
     <string name="button_update">Atjaunot FW</string>
     <string name="file_not_found">Fails update.zip nav atrasts!</string>
-    <string name="km_switch">Imperial</string>
+    <string name="km_switch">Jūdzes+am.pm</string>
     <string name="launcher_switch">Launcher</string>
     <string name="text_language">Sistēmas valoda:</string>
     <string name="text_update_failed">Atjauninājums neizdevās!</string>

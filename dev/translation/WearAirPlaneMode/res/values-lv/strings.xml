@@ -9,6 +9,13 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Muzika sportam</string>
+    <string name="widget_currentstep_title">Tekošie dati</string>
+    <string name="widget_currentstep_activities">Aktivitāte</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Pēdējais miegs</string>
+    <string name="widget_currentstep_sleep_no">Nav miega informācija</string>
+    <string name="widget_currentstep_activity_no">Bezdarbība</string>
     <string name="opened">Iesl.</string>
     <string name="closed">Izsl.</string>
     <string name="air_plane_mode_note">Nevar pievienoties telefonam

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="analog_eleven_week_path">guard/chengshijinying/en/week_%d.png</string>
-    <string name="analog_thirteen_week_path">guard/com.huami.watch.watchface.AnalogWatchFaceThirteen/android/en/week_%d.png</string>
+    <string name="analog_eleven_week_path">guard/chengshijinying/lv/week_%d.png</string>
+    <string name="analog_thirteen_week_path">guard/com.huami.watch.watchface.AnalogWatchFaceThirteen/android/lv/week_%d.png</string>
     <string name="custom_title">Fons</string>
     <string name="custom_confirm">Saglabāt</string>
     <string name="custom_header_title">Augšuplādētais fons</string>
@@ -68,11 +68,11 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Muzika sportam</string>
-    <string name="widget_currentstep_title">Datu Centrs</string>
-    <string name="widget_currentstep_activities">Soļi</string>
+    <string name="widget_currentstep_title">Tekošie dati</string>
+    <string name="widget_currentstep_activities">Aktivitāte</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Miegs</string>
+    <string name="widget_currentstep_sleep_title">Pēdējais miegsiegs</string>
     <string name="widget_currentstep_sleep_no">Nav miega ainformācija</string>
-    <string name="widget_currentstep_activity_no">Šodien nekustējies?</string>
+    <string name="widget_currentstep_activity_no">Bezdarbība</string>
 </resources>

@@ -7,12 +7,12 @@
         </runremind>
         <runremind id="1">
             <runType>Skriešana</runType>
-            <trainContent>Recovery Run</trainContent>
+            <trainContent>Atjaunošanās skriešana</trainContent>
             <copyWrite>Easy joggying. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="2">
             <runType>Skriešana</runType>
-            <trainContent>Base Run</trainContent>
+            <trainContent>Vienkārši skriešana</trainContent>
             <copyWrite>Run at conversational pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="3">
@@ -22,8 +22,8 @@
         </runremind>
         <runremind id="4">
             <runType>Skriešana</runType>
-            <trainContent>Fartlek</trainContent>
-            <copyWrite>A base run that mixes in intervals of varying duration or distance. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <trainContent>Fartleks</trainContent>
+            <copyWrite>A Vienkārši skriešana that mixes in intervals of varying duration or distance. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="5">
             <runType>Skriešana</runType>

@@ -803,6 +803,7 @@
     <string name="keyguard_password_enter_puk_code">Ievadiet PUK kodu un jaunu PIN kodu.</string>
     <string name="keyguard_password_enter_puk_prompt">PUK kods</string>
     <string name="keyguard_password_enter_pin_prompt">Jauns PIN kods</string>
+    <string name="keyguard_password_entry_touch_hint">Nospied paroles ievadīšanai</string>
     <string name="keyguard_password_enter_password_code">Ievadiet paroli, lai atbloķētu.</string>
     <string name="keyguard_password_enter_pin_password_code">Lai atbloķētu, ievadiet PIN.</string>
     <string name="keyguard_password_wrong_pin_code">PIN kods nav pareizs.</string>
