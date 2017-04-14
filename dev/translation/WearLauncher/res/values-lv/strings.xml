@@ -481,10 +481,10 @@ ieslēgts"</string>
     <string name="chrono_ambient_less_than_minute">&lt; 1 minute</string>
     <string name="voice_action_prompt">Saki…</string>
     <string name="example_query_sep">vai</string>
-    <string name="example_query_note_1">Take a note, try to drink more water</string>
+    <string name="example_query_note_1">Atceries, mēģini dzert vairāk ūdeni</string>
     <string name="example_query_note_2">Take a note, idea for a movie: a man falls in love with his MP3 player</string>
     <string name="example_query_note_3">Take a note, I parked my car on level 4</string>
-    <string name="example_query_reminder_1">Remind me to go for a run at 7am</string>
+    <string name="example_query_reminder_1">Atgādini man 7am skriet</string>
     <string name="example_query_reminder_2">Remind me to call my mother when I get home</string>
     <string name="example_query_reminder_3">Remind me to buy milk when I am at the supermarket</string>
     <string name="example_query_sms_1">Send a text to Jim, are you around?</string>
@@ -500,7 +500,7 @@ ieslēgts"</string>
     <string name="example_query_navigate_1">Navigate to a gas station nearby</string>
     <string name="example_query_navigate_2">Navigate to the nearest hardware store</string>
     <string name="example_query_navigate_3">Navigate to the Museum of Modern Art</string>
-    <string name="example_query_set_timer">Set a timer for 10 minutes</string>
+    <string name="example_query_set_timer">Uzliec taimeri uz 10 minūtēm</string>
     <string name="unread_count_watchface_name">Increment</string>
     <string name="showtimes_for_place">showtimes for %s</string>
     <string name="movie_type_standard">Satndarta</string>
@@ -552,7 +552,7 @@ ieslēgts"</string>
     <string name="theater_mode">netraucēt</string>
     <string name="theater_mode_toast_button">To turn screen back on, press side button</string>
     <string name="theater_mode_toast_no_button">To turn screen back on, double-tap the screen</string>
-    <string name="more_on_weather_domain">More on %s</string>
+    <string name="more_on_weather_domain">Vēluz %s</string>
     <string name="quick_settings_unbound">No sākuma sapāro</string>
     <string name="batteryLevelUnit">%</string>
     <string name="watchface_custom_btn_title">Iestatījumi</string>
