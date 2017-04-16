@@ -3,62 +3,62 @@
         <runremind id="0">
             <runType>Skriešana</runType>
             <trainContent>Skriešana</trainContent>
-            <copyWrite>800m easy jogging + 200m walking then repeat. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>800m viegla skriešana + 200m iešana un atkārto. Ieteicamais pulss:%1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="1">
             <runType>Skriešana</runType>
             <trainContent>Atjaunošanās skriešana</trainContent>
-            <copyWrite>Easy joggying. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Easy joggying. Ieteicamais pulss:%1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="2">
             <runType>Skriešana</runType>
             <trainContent>Vienkārši skriešana</trainContent>
-            <copyWrite>Run at conversational pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Run at conversational pace. Ieteicamais pulss:%1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="3">
             <runType>Skriešana</runType>
             <trainContent>Progression Run</trainContent>
-            <copyWrite>Start at a slow and comfortable pace then gradually increase your normal running pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Start at a slow and comfortable pace then gradually increase your normal running pace. Ieteicamais pulss:%1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="4">
             <runType>Skriešana</runType>
             <trainContent>Fartleks</trainContent>
-            <copyWrite>A Vienkārši skriešana that mixes in intervals of varying duration or distance. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <copyWrite>A Vienkārši skriešana that mixes in intervals of varying duration or distance. Ieteicamais pulss: %1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="5">
             <runType>Skriešana</runType>
             <trainContent>Hill Repeats</trainContent>
-            <copyWrite>Run on a uphill at a steady, moderate gradient of 4 to 6 percent.Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Run on a uphill at a steady, moderate gradient of 4 to 6 percent.Ieteicamais pulss:%1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="6">
             <runType>Skriešana</runType>
             <trainContent>Tempo Run</trainContent>
-            <copyWrite>Run at a normal and steady pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Run at a normal and steady pace. Ieteicamais pulss:%1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="7">
             <runType>Skriešana</runType>
             <trainContent>Short intervals</trainContent>
-            <copyWrite>800m fast run + 800m walking then repeat. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <copyWrite>800m fast run + 800m walking then repeat. Ieteicamais pulss: %1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="8">
             <runType>Skriešana</runType>
             <trainContent>Long intervals</trainContent>
-            <copyWrite>2.4km jogging + 800m walking then repeat. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <copyWrite>2.4km jogging + 800m walking then repeat. Ieteicamais pulss: %1$d-%2$dsit/min</copyWrite>
         </runremind>
         <runremind id="9">
-            <runType>Rest</runType>
+            <runType>Atpūta</runType>
             <trainContent></trainContent>
             <copyWrite>Rest today.%1$d day(s) to next workout</copyWrite>
         </runremind>
         <runremind id="10">
-            <runType>Swim</runType>
+            <runType>Peldēšana</runType>
             <trainContent></trainContent>
             <copyWrite>Swimming helps recovery from speedwork. Remember to mark today as complete after swim.</copyWrite>
         </runremind>
         <runremind id="11">
-            <runType>Bike</runType>
+            <runType>Velo</runType>
             <trainContent></trainContent>
-            <copyWrite>Cross-training improves performance and helps recovery from intense speedwrok. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Cross-training improves performance and helps recovery from intense speedwrok. Ieteicamais pulss:%1$d-%2$dsit/min</copyWrite>
         </runremind>
 </runreminds>
 

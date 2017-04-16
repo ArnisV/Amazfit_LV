@@ -4,7 +4,7 @@
             <title>Iesācējs</title>
             <type>1</type>
             <orderId>1</orderId>
-            <copyWrite>No iesanas uzskriešanu.Atļauj organismam adaptēties kustībai</copyWrite>
+            <copyWrite>No iešanas uz skriešanu. Ļauj organismam adaptēties kustībai</copyWrite>
             <totalLength>85.6</totalLength>
             <totalDays>56</totalDays>
         </trainplan>
@@ -22,15 +22,15 @@
             <orderId>3</orderId>
             <totalLength>212</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Der advancētiem skrējējiem. Uzlabo airobas spējas un muskuļu spēku.</copyWrite>
+            <copyWrite>Der advancētiem skrējējiem. Uzlabo airobās spējas un muskuļu spēku.</copyWrite>
         </trainplan>
         <trainplan id="4">
-            <title>Puss maratons</title>
+            <title>Pussmaratons</title>
             <type>4</type>
             <orderId>4</orderId>
             <totalLength>307.4</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Dr pussmaratonam. Palīdz uztrenēties skriešanai garām distancēm.</copyWrite>
+            <copyWrite>Der pussmaratonam. Palīdz uztrenēties skriešanai garām distancēm.</copyWrite>
         </trainplan>
         <trainplan id="5">
             <title>Maratons</title>
