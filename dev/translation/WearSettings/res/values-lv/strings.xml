@@ -124,7 +124,7 @@ un atrodas tuvumā"</string>
     <string name="bluetooth_enabled">Bluetooth ir iesl.</string>
     <string name="bluetooth_disabled">Bluetooth ir izsl.</string>
     <string name="bluetooth_unknown">Nezināms statuss</string>
-    <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
+    <string name="blt_confirm_ignore">Vai tiešām ignorēt šo ierīci?</string>
     <string name="phone_finding">Meklē telefonu...</string>
     <string name="phone_found">Telefons atrasts</string>
     <string name="phone_not_connected">Telefons nav pievienots</string>
