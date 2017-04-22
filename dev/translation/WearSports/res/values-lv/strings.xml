@@ -83,7 +83,7 @@
     <string name="sport_widget_title_indoor_riding">Velotrenažieris</string>
     <string name="outdoor_riding_progressing">Velosipēds</string>
     <string name="indoor_riding_progressing">Velotrenažieris</string>
-    <string name="outdoor_climb_distance">Ground speed distance</string>
+    <string name="outdoor_climb_distance">Kumulatīvais pieaugums ceļam</string>
     <string name="outdoor_climb_altitude">Pacēluma pieaugums</string>
     <string name="outdoor_max_cadence">Max ritms</string>
     <string name="outdoor_ave_cadence">Vid. ritms</string>
@@ -310,7 +310,7 @@
     <string name="walking_step">Solis</string>
     <string name="waling_steps">soļi</string>
     <string name="settting_sport_gpx_route">Kustības maršruts</string>
-    <string name="complete_training_project">TTreniņa programa pabeigta</string>
+    <string name="complete_training_project">Treniņa programa pabeigta</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Skriešana%1sKm</string>
     <string name="remind_target_time_training_title_format">Braukšana%1$dMin</string>
