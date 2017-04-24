@@ -30,7 +30,7 @@
     <string name="cannot_upload_user">Nevar atjaunot datus</string>  
     <string name="please_upload_assist_version">Atjauno pielikuma versiju</string>
     <string name="did_not_connect_assist">Pieslēdz lietotni. Pēc savienojuma tā var atjaunināt autentifikācijas informāciju, jūs varat piekļūt serverim.</string>
-    <string name="upload_failed_full">ЗŠoreiz augšuplāde neizdevās, pārtraukt?</string>
+    <string name="upload_failed_full">Šoreiz augšuplāde neizdevās, pārtraukt?</string>
     <string name="percent_sign">%</string>
     <string name="please_keep_wifi_connected">"Lūdzu, turi pulksteni
  savienotu ar WiFi"</string>
