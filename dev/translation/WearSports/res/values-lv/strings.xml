@@ -42,6 +42,7 @@
     <string name="experience_title">Norādi personīgos datus, vai rādījumi nebūs precīzi</string>
     <string name="sport_setting_gpx_route_selected">Maršruts izvēlēts</string>
     <string name="sport_setting_gpx_route_selectd_remind">Funkcija sports laukā izmantos šo maršrutu navigācijai, ja nav navigācijas, izvēlies izsl..</string>
+    <string name="confirm">Apstiprināt</string>
     <string name="decision_yes">Jā</string>
     <string name="decision_no">Nē</string>
     <string name="use_sport_route_remind">izmantot  %1$s maršrutu navigācijai?</string>
@@ -57,6 +58,10 @@
     <string name="gpx_details_view">Sīkāk</string>
     <string name="gpx_details_use">Izmantt</string>
     <string name="gpx_route_loading">Gaidi maršruta ielādi</string>
+    <string name="dialog_remind_to_look_route">Sekot maršrutam</string>
+    <string name="gpx_offset_route">Novirze no maršruta</string>
+    <string name="gpx_back_route">Atkal uz maršruta</string>
+    <string name="gpx_alreay_offset">Novirze</string>
     <string name="indoor_run_progressing">Skriešana uz celiņa</string>
     <string name="music_title">Muzika</string>
     <string name="music_local_title">Muzika sportam</string>
@@ -323,14 +328,16 @@
     <string name="km_metric_speed_unit">km/h</string>
     <string name="km_metric_distance">Attālums(km)</string>
     <string name="km_metric_remind_target_distance_title_format">Mērķis %1$d km</string>
-    <string name="km_metric_remind_target_km_title_format">Pabeigti %1$d km</string>
-    <string name="km_metric_remind_target_km_walking_title_format">Pabeigti %1$d km</string>
-    <string name="km_metric_remind_target_distance_training_title_format">Pabeigti %1s km</string>
-    <string name="km_metric_remind_target_riding_km_title_format">Pabeigti %1$d km</string>
+    <string name="km_metric_remind_target_km_title_format">Noieti %1$d km</string>
+    <string name="km_metric_remind_target_km_walking_title_format">Noieti %1$d km
+</string>
+    <string name="km_metric_remind_target_distance_training_title_format">Noieti %1s km</string>
+    <string name="km_metric_remind_target_riding_km_title_format">Noieti %1$d km
+</string>
     <string name="meter_metric_crossing_vertical_velocity_unit">metri/min</string>
     <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Augstums(metri)</string>
     <string name="km_metric_outdoor_speed_graph_title">Ātrums(km/h)</string>
-    <string name="km_metric_settings_item_value_target_distance">%.2fkm</string>
+    <string name="km_metric_settings_item_value_target_distance">%.2f km</string>
     <string name="km_imperial">mi</string>
     <string name="metre_imperial">pēdas</string>
     <string name="km_imperial_pace_unit">/jūdzes</string>

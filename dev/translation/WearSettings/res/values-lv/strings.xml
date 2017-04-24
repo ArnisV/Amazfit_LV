@@ -50,6 +50,7 @@
     <string name="auto_airplane">Auto Lidojuma rež.</string>
     <string name="wifi_upload">Augšuplādēt</string>
     <string name="replace_watchface">Ciparnīcas</string>
+    <string name="wifi_auto_upload_switch">Auto ielāde ar WiFi</string>
     <string name="nothing">Tukšs</string>
     <string name="about_title">Par</string>
     <string name="model">Modelis</string>
@@ -81,6 +82,8 @@ Lidmašīnas režīms izslēgsies Bluetooth un Wi-Fi uz pulksteņa, lai taupītu
     <string name="auto_nodisturb_start_time_string">Sākums</string>
     <string name="auto_nodisturb_end_time_string">Beigas</string>
     <string name="time_to">"-"</string>
+    <string name="auto_wifi_trans_on_string">Iesl.</string>
+    <string name="auto_wifi_trans_off_string">Izsl.</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Meklē...</string>
     <string name="blt_bound_stat_bonded">Sapārots</string>
