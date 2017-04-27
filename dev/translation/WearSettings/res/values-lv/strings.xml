@@ -44,7 +44,7 @@
     <string name="time_zone_clock">Laika iestatījumi</string>
     <string name="setting_time_format">Laika formāts</string>
     <string name="connect">Pieslēgties</string>
-    <string name="common">Kopējs</string>
+    <string name="common">Režīmi</string>
     <string name="device">Ierīce</string>
     <string name="nodisturb">Klusums</string>
     <string name="auto_airplane">Auto Lidojuma rež.</string>
@@ -110,7 +110,7 @@ Savienot?"</string>
     <string name="bluetooth_connecting">Savieno...</string>
     <string name="bluetooth_disconnecting">Atvieno...</string>
     <string name="blt_hint_paring">"%1s
- sapārpt?"</string>
+ Sapārot?"</string>
     <string name="blt_paring_fail_hint">"Pārliecinies, ka ierīce ieslēgta
 un atrodas tuvumā"</string>
     <string name="blt_hint_disconnect_device">Atvienot</string>
