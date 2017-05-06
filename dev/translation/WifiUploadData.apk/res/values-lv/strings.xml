@@ -35,8 +35,8 @@
     <string name="please_keep_wifi_connected">"Lūdzu, turi pulksteni
  savienotu ar WiFi"</string>
     <string name="init_wifi">Wi-Fi savienojums</string>    
-    <string name="init_user">Pārbaudi lietotāju</string>
+    <string name="init_user">Lietotāja pārbaude</string>
     <string name="init_app">Saistītās lietotnes</string>
-    <string name="init_update_user">Atjaunot lietotāju</string>
+    <string name="init_update_user">Lietotāja atjaunošana</string>
     <string name="zero">0</string>
 </resources>
