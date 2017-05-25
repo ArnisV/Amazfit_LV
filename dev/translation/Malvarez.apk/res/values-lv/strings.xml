@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manuel Alvarez Alvarez - Watch faces</string>
+    <string name="date_delimiter">/</string>
+    <string name="malvarez_watch_face">Malvarez</string>
+</resources>

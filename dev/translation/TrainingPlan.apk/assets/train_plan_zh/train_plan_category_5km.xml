@@ -58,7 +58,7 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="5">
-            <desc>Progression Run 4.8km</desc>
+            <desc>Slodzes skriešana 4.8km</desc>
             <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -102,7 +102,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="9">
-            <desc>Progression Run 3.2km</desc>
+            <desc>Slodzes skriešana 3.2km</desc>
             <stageDesc>Bāzes uzdevumi</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
