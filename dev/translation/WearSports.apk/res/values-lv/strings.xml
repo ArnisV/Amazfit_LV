@@ -304,6 +304,7 @@
     <string name="settings_sport_lock_screen">Ekrāni</string>
     <string name="settings_sport_four_data">4 Datu lauciņi</string>
     <string name="settings_sport_six_data">6 Datu lauciņi</string>
+    <string name="settting_sport_gpx_route">Kustības maršruts</string>
     <string name="delete_sport_summary">Dzēst</string>
     <string name="give_up_sport_record">Atcelt</string>
     <string name="give_up_sport_record_tips">Atcelt šo aktivitāti?</string>
@@ -315,6 +316,19 @@
     <string name="walking_step">Solis</string>
     <string name="waling_steps">soļi</string>
     <string name="settting_sport_gpx_route">Kustības maršruts</string>
+    <string name="setting_sport_heart_region_remind">Pulss - signāla zonas</string>
+    <string name="settings_item_title_safe_heartrate_safe_remind">Drošs Pulss</string>
+    <string name="settings_item_title_safe_heartrate_region_remind">Pulss - signāla zonas</string>
+    <string name="setting_sport_heart_region_fat_burning">Tauku sadedzināšana</string>
+    <string name="setting_sport_heart_region_aerobic">Airobā zona</string>
+    <string name="setting_sport_heart_region_high＿intensity_exercise">Augstas slodzes zona</string>
+    <string name="setting_sport_heart_region_custom">Sava zona</string>
+    <string name="setting_sport_heart_region_text_fat_burning">"Tauku sad. "</string>
+    <string name="setting_sport_heart_region_text_aerobic">"Airobais "</string>
+    <string name="setting_sport_heart_region_text_high＿intensity_exercise">Liela slodze</string>
+    <string name="setting_sport_heart_region_text_custom">"Savs "</string>
+    <string name="remind_heart_rate_region_over">Pulss pārāk augsts</string>
+    <string name="remind_heart_rate_region_less">Pulss pārāk zems</string>
     <string name="complete_training_project">Treniņa programa pabeigta</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Skriešana%1sKm</string>
